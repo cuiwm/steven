@@ -23,6 +23,6 @@
     make daytimetcpcli
 
     #./daytimetcpcli 127.0.0.1
-	./daytimetcpcli 64.113.32.5
+	#./daytimetcpcli 64.113.32.5
 
 echo "done"
